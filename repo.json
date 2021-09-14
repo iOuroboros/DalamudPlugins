@@ -48,5 +48,31 @@
     "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.4/HeelsPlugin.zip",
     "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.4/HeelsPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.0.4/HeelsPlugin.zip"
-  }
+  },
+      {
+        "Author": "iOuroboros",
+        "Name": "Collectible Tracker",
+        "Description": "Tracks the amount of collectibles you have",
+        "InternalName": "CTPlugin",
+        "AssemblyVersion": "1.3.11",
+        "RepoUrl": "https://github.com/iOuroboros/Sample/tree/main/SamplePlugin-master",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "bdth",
+            "housing",
+            "float",
+            "place",
+            "glitch",
+            "furnishing",
+            "LeonBlade"
+        ],
+        "DalamudApiLevel": 3,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 1631012003,
+        "DownloadCount": 5394,
+        "DownloadLinkInstall": "https://github.com/iOuroboros/Sample/blob/main/SamplePlugin-master.zip",
+        "DownloadLinkTesting": "https://github.com/iOuroboros/Sample/blob/main/SamplePlugin-master.zip",
+        "DownloadLinkUpdate": "https://github.com/iOuroboros/Sample/blob/main/SamplePlugin-master.zip"
+    }
 ]
