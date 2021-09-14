@@ -10,5 +10,11 @@
     "repo": "HeelsPlugin",
     "branch": "main",
     "configFolder": "HeelsPlugin"
+  },
+  {
+    "username": "iOuroborose",
+    "repo": "Sample",
+    "branch": "main",
+    "configFolder": "SamplePlugin-master"
   }
 ]
